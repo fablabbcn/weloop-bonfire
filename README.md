@@ -6,7 +6,15 @@
 
 ## About the project
 
-This app is based on [CommonsPub](http://commonspub.org), a project to create a generic federated server, based on the `ActivityPub` and `ActivityStreams` web standards and originally developed as part of [moodle.net](https://moodle.net/).
+WeLoop is the first client web application developed for ReflowOS. It is a modular front-end framework intended to be used as a base for Reflow pilots to build their own ReflowOS front end interfaces customised for their unique business use cases.
+
+WeLoop is developed in the React/Typescript development environment and based on the [CommonsPub](http://commonspub.org) front-end initially developed as part of [moodle.net](https://moodle.net/). It uses the Apollo GraphQL library and provides a UI library and example style guide for consistent further development by REFLOW pilots for their specific use case requirements. Detailed WeLoop installation, operation & functionality is described in Reflow project deliverable [D2.5 Reflow OS Graphical Interfaces](https://reflowproject.eu/wp-content/uploads/2022/01/ReflowD2.5-v.0.5.2-FINAL_compressed-1.pdf).
+
+For a detailed description of the use of the ReflowOS WeLoop UI client application within REFLOW pilot use cases, see REFLOW deliverable [D5.4 Reflow Pilot Applications](https://zenodo.org/record/6564708#.YpSU_qhBw2w). 
+
+The code repository for WeLoop ReflowOS client application, together with installation instructions, is available on the REFLOW Project Github resource at https://github.com/reflow-project/weloop/ (original version) and https://github.com/reflow-project/weloop-bonfire (final Bonfire compatible version).
+
+The codebase contains contributions from multiple authors, primarly from [Fab Lab Barcelona](https://fablabbcn.org/) at [IAAC](https://iaac.net/) and [Dyne](https://www.dyne.org). 
 
 ## Structure
 
