@@ -16,6 +16,8 @@ The code repository for WeLoop ReflowOS client application, together with instal
 
 The codebase contains contributions from multiple authors, primarly from [Fab Lab Barcelona](https://fablabbcn.org/) at [IAAC](https://iaac.net/) and [Dyne](https://www.dyne.org). 
 
+The Reflow project (constRuctive mEtabolic processes For materiaL flOWs in urban and peri-urban environments across Europe) has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement [No 820937](https://cordis.europa.eu/project/id/820937).
+
 ## Structure
 
 ### High level folder structure:
